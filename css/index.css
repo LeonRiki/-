@@ -4,7 +4,7 @@
 * @Last Modified by:   Lenovo
 * @Last Modified time: 2018-02-06 17:53:58
 */
-/* @font-face{
+@font-face{
 	font-family: PingFang bold;
 	src: url('../fonts/PingFang Bold_0.ttf');
 }
@@ -19,7 +19,7 @@
 @font-face{
 	font-family: sf-semibold;
 	src: url('../fonts/sanfranciscodisplay-semibold-webfont.ttf');
-} */
+}
 *{
 	margin: 0;
 	padding: 0;
